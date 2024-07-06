@@ -5,7 +5,7 @@
 
 <br><br> Vibing to : 🎧  </strong></p>
 
-[![Spotify](https://open.spotify.com/playlist/4Is8KvZDZyj6ypEOENGybC) <br>
+
 [![Listen on Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/playlist/4Is8KvZDZyj6ypEOENGybC)
 
 
