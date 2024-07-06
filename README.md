@@ -34,9 +34,9 @@ class About extends Me {
 <div align="center" >
 <a  href="https://github.com/chatupornsangrawee">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chatupornsangrawee)](https://github.com/chatupornsangrawee/github-readme-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chatupornsangrawee&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chatupornsangrawee&show_icons=true)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chatupornsangrawee&show_icons=true&theme=radical)
 </a>
 
