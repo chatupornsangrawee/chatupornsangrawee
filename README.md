@@ -35,8 +35,7 @@ class About extends Me {
 <a  href="https://github.com/chatupornsangrawee">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chatupornsangrawee)](https://github.com/chatupornsangrawee/github-readme-stats)
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chatupornsangrawee&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 </a>
 
