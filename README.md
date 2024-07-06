@@ -7,7 +7,6 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chatupornsangrawee)](https://github.com/chatupornsangrawee/github-readme-stats)
 [![Listen on Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/playlist/4Is8KvZDZyj6ypEOENGybC)
 
 
@@ -35,7 +34,7 @@ class About extends Me {
 <div align="center" >
 <a  href="https://github.com/chatupornsangrawee">
 
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chatupornsangrawee)](https://github.com/chatupornsangrawee/github-readme-stats)
 <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
 <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
 
